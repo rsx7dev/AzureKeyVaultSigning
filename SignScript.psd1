@@ -12,13 +12,13 @@
     GUID = '12345678-1234-5678-1234-567812345678'  # You should generate a new GUID
 
     # Author of this module
-    Author = 'Riyadh Sarker'
+    Author = 'RSX7'
 
     # Company or vendor of this module
-    CompanyName = 'TECHLAKE'
+    CompanyName = ''
 
     # Copyright statement for this module
-    Copyright = '(c) 2025 TECHLAKE. All rights reserved.'
+    Copyright = '(c) 2025 RSX7. All rights reserved.'
 
     # Description of the functionality provided by this module
     Description = 'Module for signing PowerShell and VBScript files using Azure Key Vault certificate'
