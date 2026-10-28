@@ -150,6 +150,6 @@ Failures (invalid file type, missing file, Azure errors, invalid signature statu
 
 ## Author
 
-**Riyadh Sarker** · [TECHLAKE](https://techlake.be)
+**Riyadh Sarker** 
 
-Copyright (c) 2025 TECHLAKE. All rights reserved.
+Copyright (c) 2025 RSX. All rights reserved.
